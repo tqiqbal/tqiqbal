@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanveer Iqbal</h1>
-<h3 align="center">Developers</h3>
+<h1 align="center">Hi 👋, I'm tqiqbal</h1>
+<h3 align="center">Solution Archtect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tqiqbal" alt="tqiqbal" /> </p>
 
