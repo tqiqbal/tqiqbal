@@ -1,3 +1,6 @@
+Visit my profile for more details:
+https://tqiqbal.github.io/tanveeriqbal.info/
+
 <h2 align="center">In love with Deep Neural Net !</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tqiqbal&layout=compact&hide=html" alt="tqiqbal" /></p>
 
